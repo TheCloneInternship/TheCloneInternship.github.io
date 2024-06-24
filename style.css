@@ -74,6 +74,7 @@ a:hover:after {
 .main-content h2 {
     font-size: 2.5rem;
     color: #000000; /* Black heading */
+    margin-bottom: 20px;
 }
 
 .main-content p {
@@ -131,4 +132,22 @@ footer {
     bottom: 0;
     width: 100%;
     margin-top: 20px;
+}
+
+.partnership {
+    background-color: #f0f0f0; /* Light grey background */
+    color: #000000; /* Black text */
+    text-align: center;
+    padding: 50px 0;
+}
+
+.partnership h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px; /* Add margin at the bottom of h2 */
+}
+
+.partnership p {
+    font-size: 1.1rem;
+    margin-bottom: 20px; /* Add margin at the bottom of p */
+    padding: 0 20px; /* Add padding to create space around paragraphs */
 }
